@@ -13,16 +13,22 @@
   </a>
 </div>
 
----
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-github-username" />
-</div>
-
----
 
 <h1 align="center">Hey there 👋</h1>
 
+---
+### 🛠 Languages & Tools
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://logos-world.net/wp-content/uploads/2020/09/Microsoft-Excel-Logo.png" height="40" alt="Excel logo" />
+  <img width="12" />
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg?raw=true" height="40" alt="Power BI logo" />
+</div>
 ---
 
 ### 👨‍💻 About Me
@@ -32,20 +38,6 @@
 - 📊 Skilled in **Power BI, Excel, MySQL, and Python for data analysis**  
 - 📚 Currently learning **advanced SQL queries and automation in Excel**  
 - 🚀 Exploring ways to make data more accessible and impactful  
-
----
-
-### 🛠 Languages & Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Excel-Logo.svg" height="40" alt="Excel logo" />
-  <img width="12" />
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg?raw=true" height="40" alt="Power BI logo" />
-</div>
 
 ---
 
